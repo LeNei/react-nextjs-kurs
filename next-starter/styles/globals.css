@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  display: grid;
+  height: 100dvh;
+  place-items: center;
+}
