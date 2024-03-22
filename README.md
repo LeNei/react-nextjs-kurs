@@ -8,6 +8,13 @@ Hier finden Sie die Dokumentation zu den genutzten Technologien:
 - [Nextjs](https://nextjs.org/docs)
 - [Nextjs app router playground](https://app-router.vercel.app/)
 - [Tailwindcss](https://tailwindcss.com)
+- [Yup](https://github.com/jquense/yup)
 - [Tanstack Query/Table](https://tanstack.com/)
 - [Jest](https://jestjs.io/)
 - [Cypress](https://www.cypress.io/)
+
+## Good to know
+Hier sind ein paar weitere Bibliotheken, die für Sie interessant sein könnten:
+- [shadcn/ui](https://ui.shadcn.com/)
+- [aceternity/ui](https://ui.aceternity.com/)
+- [MUI](https://mui.com/)
